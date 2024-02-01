@@ -1,0 +1,40 @@
+
+{
+  "name": "Chrome Power Shortcuts",
+  "version": "1.0",
+  "manifest_version": 3,
+  "author": "Ed Orozco",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "pin_tab": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+P",
+        "mac": "MacCtrl+Command+P"
+      },
+      "description": "Pin current tab"
+    },
+    "duplicate_tab": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+D",
+        "mac": "MacCtrl+Command+D"
+      },
+      "description": "Duplicate current tab"
+    },
+    "close_other_tabs": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+X",
+        "mac": "MacCtrl+Command+X"
+      },
+      "description": "Close other tabs"
+    }
+  },
+  "permissions": ["tabs"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
+
