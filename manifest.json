@@ -10,22 +10,22 @@
   "commands": {
     "pin_tab": {
       "suggested_key": {
-        "default": "Ctrl+Shift+P",
-        "mac": "MacCtrl+Command+P"
+        "default": "Alt+P",
+        "mac": "MacCtrl+P"
       },
       "description": "Pin current tab"
     },
     "duplicate_tab": {
       "suggested_key": {
-        "default": "Ctrl+Shift+D",
-        "mac": "MacCtrl+Command+D"
+        "default": "Alt+D",
+        "mac": "MacCtrl+D"
       },
       "description": "Duplicate current tab"
     },
     "close_other_tabs": {
       "suggested_key": {
-        "default": "Ctrl+Shift+X",
-        "mac": "MacCtrl+Command+X"
+        "default": "Alt+X",
+        "mac": "MacCtrl+X"
       },
       "description": "Close other tabs"
     }

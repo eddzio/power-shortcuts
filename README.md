@@ -17,9 +17,16 @@ To install Chrome Power Shortcuts, follow these steps:
 
 After installation, you can use the following keyboard shortcuts:
 
-- **Pin/Unpin Tab**: `Ctrl+Option+Cmd+P` (macOS) or `Ctrl+Alt+Shift+P` (Windows/Linux)
-- **Duplicate Tab**: `Ctrl+Option+Cmd+D` (macOS) or `Ctrl+Alt+Shift+D` (Windows/Linux)
-- **Close Other Tabs**: `Ctrl+Option+Cmd+X` (macOS) or `Ctrl+Alt+Shift+X` (Windows/Linux)
+### Mac
+Pin tab `Ctrl+P`
+Duplicate tab`Ctrl+D`
+Close other tabs `Ctrl+X`
+
+### Mac
+Pin tab `Alt+P`
+Duplicate tab`Alt+D`
+Close other tabs `Alt+X`
+
 
 
 ## Contributing
