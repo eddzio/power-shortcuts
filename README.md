@@ -18,14 +18,14 @@ To install Chrome Power Shortcuts, follow these steps:
 After installation, you can use the following keyboard shortcuts:
 
 ### Mac
-Pin tab `Ctrl+P`
-Duplicate tab`Ctrl+D`
-Close other tabs `Ctrl+X`
+- Pin tab `Ctrl+P`
+- Duplicate tab`Ctrl+D`
+- Close other tabs `Ctrl+X`
 
 ### Mac
-Pin tab `Alt+P`
-Duplicate tab`Alt+D`
-Close other tabs `Alt+X`
+- Pin tab `Alt+P`
+- Duplicate tab`Alt+D`
+- Close other tabs `Alt+X`
 
 
 
