@@ -22,7 +22,8 @@ After installation, you can use the following keyboard shortcuts:
 - Duplicate tab`Ctrl+D`
 - Close other tabs `Ctrl+X`
 
-### Mac
+### Windows 
+// I have not tested it in Windows!
 - Pin tab `Alt+P`
 - Duplicate tab`Alt+D`
 - Close other tabs `Alt+X`
