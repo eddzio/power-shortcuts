@@ -7,6 +7,11 @@ This extension automatically adds keyboard shortcuts to pin tabs, duplicate tabs
 
 To install Chrome Power Shortcuts, follow these steps:
 
+### Installing via Chrome Web Store
+1. Go to [this link](https://chromewebstore.google.com/detail/chrome-power-shortcuts/mhfegknmaklogdbeeojdndenahdnjkph) and click install
+2. That's it
+
+### Installing via Github
 1. Clone this repository or download it as a ZIP file and unpack it.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the top-right corner.
@@ -18,12 +23,12 @@ To install Chrome Power Shortcuts, follow these steps:
 After installation, you can use the following keyboard shortcuts:
 
 ### Mac
-- Pin tab `Ctrl+P`
-- Duplicate tab`Ctrl+D`
-- Close other tabs `Ctrl+X`
+- Pin tab `MacCtrl+P`
+- Duplicate tab`MacCtrl+D`
+- Close other tabs `MacCtrl+X`
 
 ### Windows 
-// I have not tested it in Windows!
+// Please note I have not verified if it in Windows.
 - Pin tab `Alt+P`
 - Duplicate tab`Alt+D`
 - Close other tabs `Alt+X`
