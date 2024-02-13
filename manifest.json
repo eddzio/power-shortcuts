@@ -1,7 +1,7 @@
 
 {
   "name": "Chrome Power Shortcuts",
-  "version": "1.1",
+  "version": "1.2",
   "manifest_version": 3,
   "author": "Ed Orozco",
   "background": {

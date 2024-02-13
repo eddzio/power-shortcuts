@@ -11,7 +11,7 @@ chrome.commands.onCommand.addListener(function(command) {
       chrome.tabs.update(tabs[0].id, {pinned: !currentlyPinned});
     } else if (command === "close_other_tabs") {
       chrome.tabs.query({currentWindow: true}, function(allTabs) {
-        const tabsToClose = allTabs.filter(tab => tab.id !== tabs[0].id);
+        const tabsToClose = allTabs.filter(tab => !tab.pinned && tab.id !== tabs[0].id);
         for (const tab of tabsToClose) {
           chrome.tabs.remove(tab.id);
         }
