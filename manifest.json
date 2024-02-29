@@ -24,8 +24,8 @@
     },
     "close_other_tabs": {
       "suggested_key": {
-        "default": "Alt+X",
-        "mac": "MacCtrl+X"
+        "default": "Alt+O",
+        "mac": "MacCtrl+O"
       },
       "description": "Close other tabs"
     }

@@ -25,13 +25,13 @@ After installation, you can use the following keyboard shortcuts:
 ### Mac
 - Pin tab `MacCtrl+P`
 - Duplicate tab`MacCtrl+D`
-- Close other tabs `MacCtrl+X`
+- Close other tabs `MacCtrl+O`
 
 ### Windows 
-// Please note I have not verified if it in Windows.
+// Please note I have not checked if it works on Windows.
 - Pin tab `Alt+P`
 - Duplicate tab`Alt+D`
-- Close other tabs `Alt+X`
+- Close other tabs `Alt+O`
 
 
 
